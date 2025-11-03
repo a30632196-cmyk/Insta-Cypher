@@ -106,3 +106,4 @@ Error Screenshot:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pralinkhaira/Insta-Cypher&type=Date)](https://www.star-history.com/#pralinkhaira/Insta-Cypher&Date)
+Instagram 
